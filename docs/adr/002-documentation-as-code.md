@@ -16,7 +16,7 @@ We will embed documentation directly in code using:
 - ADRs for architectural decisions
 ## Implementation
 ### JSDoc with Mermaid
-` ``javascript
+```javascript
 /**
 * @fileoverview Die class for simulating dice rolls
 * @mermaid
@@ -29,9 +29,9 @@ We will embed documentation directly in code using:
 * +getValue(): number
 * }
   */
-  ` ``
+  ```
 ### File Structure
-` ``
+```
 src/
 ├── domain/
 │ ├── Die.js # Single die implementation
@@ -43,7 +43,7 @@ src/
 └── presentation/
 ├── renderers/ # Different display strategies
 └── cli/ # Command-line interface
-` ``
+```
 ## Consequences
 ### Positive
 - Documentation stays close to code
