@@ -34,7 +34,7 @@ This project follows a step-by-step development approach:
 4. View Layer Step 1 - CLI
 5. View Layer Step 2 - TUI (optional)
 ## Repository Structure (Planned)
-` ``
+```
 lab3-js-oop-dice-docs-and-design/
 ├── docs/
 │ ├── adr/ # Architecture Decision Records
@@ -46,7 +46,7 @@ lab3-js-oop-dice-docs-and-design/
 ├── README.md # This file
 ├── CHANGELOG.md # Version history
 └── LICENSE.md # MIT License
-` ``
+```
 ## Design Decisions
 Key architectural decisions are documented in the Architecture Decision Records
 (ADRs):
