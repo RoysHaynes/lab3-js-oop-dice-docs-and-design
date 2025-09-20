@@ -28,4 +28,20 @@ and this project adheres to [Semantic Versioning]
 - Comprehensive unit tests (48 tests total)
 - Test scripts in package.json  
 [Unreleased]: https://github.com/RoysHaynes/lab3-js-oop-dice-docs-and-design/v0.2.0...HEAD  
-[0.2.0]: https://github.com/RoysHaynes/lab3-js-oop-dice-docs-and-design/releases/tag/v0.2.0
+[0.2.0]: https://github.com/RoysHaynes/lab3-js-oop-dice-docs-and-design/releases/tag/v0.2.0  
+
+
+## [0.3.0] - 2025-09-20
+### Added
+- ESLint configuration for code quality
+- Prettier configuration for code formatting
+- JSDoc configuration for documentation generation
+- Quality check scripts in package.json
+- Automated quality checking script
+### Developer Experience
+- npm run lint - Check code quality
+- npm run format - Auto-format code
+- npm run docs - Generate documentation
+- npm run quality - Run all checks  
+  [Unreleased]: https://github.com/yourusername/lab3-js-oop-dice-docs-and-design/v0.3.0...HEAD  
+  [0.3.0]: https://github.com/yourusername/lab3-js-oop-dice-docs-and-design/releases/tag/v0.3.0
